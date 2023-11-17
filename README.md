@@ -7,7 +7,7 @@ class DataScientist:
 
     def __init__(self):
         self.name = "Chris John"
-        self.github_username = "WorkstationChris"
+        self.github_username = "Git-With-Chris"
         self.aspiring_role = "Machine Learning Engineer"
         self.languages_spoken = ["en_US", "hi_IN", "ta_IN", "ml_IN"]
         self.portfolio_site = "www.example.com"
@@ -114,9 +114,9 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 <h1 align="center">📊  Profile Stats </h1>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WorkstationChris&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=WorkstationChris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WorkstationChris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=ayu-mirage&hide_border=false&custom_title=Featured%20Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Git-With-Chris&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-With-Chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Git-With-Chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=ayu-mirage&hide_border=false&custom_title=Featured%20Languages" height="150" alt="languages graph"  />
 </div>
 
 <br>
@@ -127,7 +127,7 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/WorkstationChris/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Git-With-Chris/count.svg?"  />
 </div>
 
 ###
