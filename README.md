@@ -7,10 +7,10 @@ class DataScientist:
 
     def __init__(self):
         self.name = "Chris John"
+        self.portfolio_site = "findingchris.netlify.app"
         self.github_username = "Git-With-Chris"
-        self.aspiring_role = "Machine Learning Engineer"
+        self.aspiring_domain = "Machine Learning"
         self.languages_spoken = ["en_US", "hi_IN", "ta_IN", "ml_IN"]
-        self.portfolio_site = "www.example.com"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -65,30 +65,6 @@ me.say_hi()
 
 ###
 
-<h1 align="center">🔬  Trait Analysis </h1>
-
-
-```text
-🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-🌆 Daytime    10 commits     ███████████░░░░░░░░░░░░░░   44.68% 
-🌃 Evening    11 commits     ███████████░░░░░░░░░░░░░░   46.81% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
-```
-
-```text
-Monday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-Tuesday      2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Wednesday    4 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.15% 
-Thursday     3 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Friday       3 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Saturday     5 commits      █████░░░░░░░░░░░░░░░░░░░░   23.4% 
-Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
-```
-
-
-
-###
-
 <h1 align="center">📬  Contact Info </h1>
 
 
@@ -99,8 +75,8 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
   <a href="https://www.linkedin.com/in/chrisjohn11/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/workstation_chr1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://findingchris.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codechef&label=&color=6662a1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://stackoverflow.com/users/22263790/chris-john" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
